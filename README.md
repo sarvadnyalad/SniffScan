@@ -1,5 +1,5 @@
 
-# 🔐 NetSleuth – Lightweight PCAP Traffic Analyzer
+# 🔐 SniffScan – Lightweight PCAP Traffic Analyzer
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -79,5 +79,3 @@ netsleuth/
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-> Created with ❤️ for students, CTFers, and cybersecurity learners.
