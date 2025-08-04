@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Maintained](https://img.shields.io/badge/status-maintained-brightgreen.svg)]()
 
-**NetSleuth** is a lightweight command-line tool built in Python for offline analysis of `.pcap` files. It detects potentially sensitive or malicious traffic using **keyword-based payload inspection** and **IP address matching** against a threat list.
+**SniffScan** is a lightweight command-line tool built in Python for offline analysis of `.pcap` files. It detects potentially sensitive or malicious traffic using **keyword-based payload inspection** and **IP address matching** against a threat list.
 
 ---
 
